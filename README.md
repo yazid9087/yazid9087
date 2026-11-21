@@ -1,15 +1,18 @@
-<!-- Header Minimalis dengan Animasi Ketik -->
+<!-- Banner Kreasi Jendela Terminal -->
 <div align="center">
-  <h1>Hi, I'm Muhammad Yazid 👋</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Information+Systems+Student+%40+UPN+%22Veteran%22+Jawa+Timur;Aspiring+Full+Stack+Developer;Database+Architecture+%26+Software+Engineering" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:0f172a&height=160&section=header&text=%3E_%20Muhammad%20Yazid&fontSize=36&fontColor=38bdf8&fontAlignY=42&desc=Information%20Systems%20Student%20%7C%20Full%20Stack%20%26%20Database%20Enthusiast&descAlignY=68&descSize=15" width="100%" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+structured+databases+%26+scalable+applications.;UPN+%22Veteran%22+Jawa+Timur+%E2%80%94+Sistem+Informasi;Exploring+Java%2C+VB.NET%2C+Python+%26+Modern+Web+Stack." alt="Typing SVG" />
+</div>
+
+---
 
 ### 👨‍💻 Tentang Saya
 Mahasiswa **Sistem Informasi** di **UPN "Veteran" Jawa Timur** yang tertarik pada pengembangan perangkat lunak (*Full Stack Development*), arsitektur basis data relasional, serta perancangan UI/UX yang fungsional. Saat ini aktif mengeksplorasi struktur data, integrasi sistem, dan otomasi *workflow*.
 
-- 🔭 **Fokus Saat Ini:** Pengembangan aplikasi desktop & web (*Java, VB.NET, HTML/CSS/Tailwind*) serta manajemen database (*MySQL/MariaDB*).
+- 🔭 **Fokus Saat Ini:** Pengembangan aplikasi desktop & web serta manajemen basis data relasional.
 - 🌱 **Sedang Mendalami:** Ekosistem *Full Stack Web*, tata kelola TI, dan administrasi lingkungan Linux.
 - 📫 **Kontak & Kolaborasi:** Terbuka untuk diskusi seputar *software engineering*, proyek sistem informasi, maupun kompetisi UI/UX.
 
@@ -18,20 +21,9 @@ Mahasiswa **Sistem Informasi** di **UPN "Veteran" Jawa Timur** yang tertarik pad
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="VB.NET" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <!-- Database & Tools -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cs,py,html,css,tailwind,mysql,figma,git,linux&perline=10" alt="Tech Stack Icons" />
+  </a>
 </p>
 
 ---
