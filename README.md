@@ -1,11 +1,8 @@
-<!-- Banner Kreasi Jendela Terminal -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e293b,100:0f172a&height=160&section=header&text=%3E_%20Muhammad%20Yazid&fontSize=36&fontColor=38bdf8&fontAlignY=42&desc=Information%20Systems%20Student%20%7C%20Full%20Stack%20%26%20Database%20Enthusiast&descAlignY=68&descSize=15" width="100%" />
-</div>
+# Hi there, I'm Muhammad Yazid 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=Building+structured+databases+%26+scalable+applications.;UPN+%22Veteran%22+Jawa+Timur+%E2%80%94+Sistem+Informasi;Exploring+Java%2C+VB.NET%2C+Python+%26+Modern+Web+Stack." alt="Typing SVG" />
-</div>
+**💫 Information Systems Student & Aspiring Full Stack Developer**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=10B981&vCenter=true&width=600&lines=Focused+on+making+real+steps.;Building+structured+databases+%26+clean+code.;UPN+%22Veteran%22+Jawa+Timur+%E2%80%94+Sistem+Informasi." alt="Typing SVG" />
 
 ---
 
